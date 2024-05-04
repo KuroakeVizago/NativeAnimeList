@@ -42,6 +42,7 @@
         </div>
     </header>
 
+    <h1>Open The Anime List section to start creating</h1>
 
     <!-- JavaScript Linking -->
     <script src="../../../vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
